@@ -5,6 +5,8 @@
 - `traders/round1/ash_coated_osmium_only.py`
   Current standalone bot for `ASH_COATED_OSMIUM`
 
+UNDER ANALYSIS THE IMAGES BIT
+
 - `backtesting/fresh_backtester.py`
   Local backtester
 
