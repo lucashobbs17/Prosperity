@@ -1,5 +1,8 @@
 # Prosperity
 
+Round 2 was all Chatgpt, pasted the final code
+
+
 ## Useful Files
 
 - `traders/round1/ash_coated_osmium_only.py`
