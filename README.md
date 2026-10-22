@@ -1,6 +1,6 @@
 # Prosperity
 
-Round 2 was all Chatgpt, pasted the final code
+
 
 
 ## Useful Files
